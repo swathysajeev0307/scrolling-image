@@ -25,7 +25,7 @@ body{
 }
 
 .card{
-    background: url("/images/img4.jpg");
+    background: url("./images/img4.jpg");
     background-size: cover;
     border-radius: 5px;
     width: 600px;
